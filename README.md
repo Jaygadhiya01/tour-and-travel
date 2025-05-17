@@ -85,6 +85,3 @@ python manage.py runserver
 # Step 6: Open your browser and visit:
 http://127.0.0.1:8000/
 
-
-![image](https://github.com/user-attachments/assets/9fffaffe-2c95-4d5b-84cc-91589ce809cb)
-![image](https://github.com/user-attachments/assets/c724beee-2bcb-446a-b4fe-d18c9c2bebf0)
