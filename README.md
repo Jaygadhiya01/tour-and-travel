@@ -86,5 +86,5 @@ python manage.py runserver
 http://127.0.0.1:8000/
 
 
-
-[Tour and Travel Website_ ppt.pdf](https://github.com/user-attachments/files/20263296/Tour.and.Travel.Website_.ppt.pdf)
+![image](https://github.com/user-attachments/assets/9fffaffe-2c95-4d5b-84cc-91589ce809cb)
+![image](https://github.com/user-attachments/assets/c724beee-2bcb-446a-b4fe-d18c9c2bebf0)
